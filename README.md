@@ -1,0 +1,1 @@
+Solution for having npm install things globally

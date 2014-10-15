@@ -1,0 +1,24 @@
+{
+  "name": "node_bin",
+  "version": "0.0.1",
+  "description": "node apps that want to be global",
+  "main": "index.js",
+  "dependencies": {
+    "keybase-installer": "^1.0.0",
+    "pm2": "^0.11.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/qbit/node_bin.git"
+  },
+  "author": "Aaron Bieber <deftly@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qbit/node_bin/issues"
+  },
+  "homepage": "https://github.com/qbit/node_bin"
+}
