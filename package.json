@@ -4,6 +4,7 @@
   "description": "node apps that want to be global",
   "main": "index.js",
   "dependencies": {
+    "bower": "^1.3.12",
     "keybase-installer": "^1.0.0",
     "pm2": "^0.11.1"
   },
