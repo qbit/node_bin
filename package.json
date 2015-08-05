@@ -4,14 +4,16 @@
   "description": "node apps that want to be global",
   "main": "index.js",
   "dependencies": {
-    "bower": "^1.3.12",
-    "castnow": "^0.4.7",
+    "bower": "^1.4.1",
+    "castnow": "^0.4.13",
+    "elm": "^2.0.0",
     "grunt-cli": "^0.1.13",
-    "jshint": "^2.6.0",
-    "keybase": "^0.7.3",
+    "jshint": "^2.7.0",
+    "keybase": "^0.8.16",
     "keybase-installer": "^1.0.0",
-    "pm2": "^0.12.4",
-    "spark-cli": "^0.4.94"
+    "pm2": "^0.12.14",
+    "qr-encode": "^0.3.0",
+    "spark-cli": "^1.2.0"
   },
   "devDependencies": {},
   "scripts": {
