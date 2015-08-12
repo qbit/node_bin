@@ -10,10 +10,10 @@
     "grunt-cli": "^0.1.13",
     "jshint": "^2.8.0",
     "keybase": "^0.8.16",
-    "keybase-installer": "^1.0.0",
-    "pm2": "^0.14.5",
+    "keybase-installer": "^1.0.3",
+    "pm2": "^0.14.6",
     "qr-encode": "^0.3.0",
-    "spark-cli": "^1.2.0"
+    "spark-cli": "^1.4.2"
   },
   "devDependencies": {},
   "scripts": {
