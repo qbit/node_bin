@@ -8,7 +8,7 @@
     "castnow": "^0.4.13",
     "elm": "^2.0.0",
     "grunt-cli": "^0.1.13",
-    "jsdom": "^7.0.0",
+    "jsdom": "^7.0.1",
     "jshint": "^2.8.0",
     "keybase": "^0.8.22",
     "keybase-installer": "^1.0.3",
