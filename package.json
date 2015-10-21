@@ -16,6 +16,7 @@
     "pm2": "^0.15.7",
     "qr-encode": "^0.3.0",
     "spark-cli": "^1.4.2",
+    "typescript": "^1.6.2",
     "webworker-threads": "^0.6.2"
   },
   "devDependencies": {},
