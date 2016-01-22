@@ -12,9 +12,10 @@
     "keybase": "^0.8.25",
     "keybase-installer": "^1.0.3",
     "less": "^2.5.3",
-    "particle-cli": "^1.9.2",
+    "particle-cli": "^1.9.3",
     "pm2": "^1.0.0",
     "qr-encode": "^0.3.0",
+    "spotify-server": "^0.1.7",
     "typescript": "^1.7.5",
     "webworker-threads": "^0.6.2"
   },
