@@ -15,6 +15,7 @@
     "particle-cli": "^1.11.0",
     "pm2": "^1.0.0",
     "qr-encode": "^0.3.0",
+    "sass": "^0.5.0",
     "spotify-server": "^0.1.7",
     "typescript": "^1.7.5",
     "webworker-threads": "^0.6.2"
